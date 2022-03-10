@@ -1,0 +1,1 @@
+La morte di Socrate - Louis David

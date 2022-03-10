@@ -1,0 +1,1 @@
+Same rules as [[Fibonacci Sequence]] but istead starts with 2,1 and goes on

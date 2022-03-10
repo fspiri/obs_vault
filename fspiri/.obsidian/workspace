@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "992ec701f5b86350",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b3986995427889",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life/Career/Uni/Foundation of Artificial Intelligence/Foundation of Artificial Intelligence.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c2d05def37912505",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dc17bc9ca1183d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7165a40b5dc87f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881f087ad7ca2efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99c2ec8112d73108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251,
+    "collapsed": true
+  },
+  "right": {
+    "id": "171af3cd0a1848fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bda6a4525d8a03d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc8184b0ca7afa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/Career/Uni/Foundation of Artificial Intelligence/Foundation of Artificial Intelligence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faca0cbb509dda15",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "baeaef992c04d522",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "18b3986995427889",
+  "lastOpenFiles": [
+    "Life/Career/Uni/Foundation of Artificial Intelligence/Foundation of Artificial Intelligence.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/2.4 Embedded and Simulated Agents.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/agent system model.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/simulated agent.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/embedded agent.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/1.1 What is AI?.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/1.2 Complexity.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/2.3 Hierarchical Control.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/2.2.1 Agent Functions.md",
+    "Life/Career/Uni/Foundation of Artificial Intelligence/2.3 Agent Functions.md"
+  ]
+}

@@ -1,0 +1,2 @@
+The Fibonacci numbers form a [[sequence]] called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1.
+The Fibonacci Sequence is strongly related to the [[Binet's formula of golden ratio]]

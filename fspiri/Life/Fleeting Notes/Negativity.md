@@ -1,0 +1,1 @@
+in human life negative informations is processed more effectively instead of positive, that's probably because if a predator appeared in the past, the brain had to process quicker
